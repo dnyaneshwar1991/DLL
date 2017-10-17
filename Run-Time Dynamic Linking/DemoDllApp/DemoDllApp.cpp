@@ -21,6 +21,8 @@
          @n Unlike Load-time DLL, you don't need to provide "dll" file near "exe of an application".
          Just provide the relative path of the required DLL to LoadLibrary() function.
          This is the main advantage of "Run time DLL".
+
+         @n Also, whenever library(.dll) is changed, you dont need to rebuild the application.
 */
 //------------------------------------------------------------------------------ 
 

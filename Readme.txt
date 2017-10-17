@@ -1,1 +1,1 @@
-DLL Basics
+This project will give you a walkthrough about different types of DLL's.
