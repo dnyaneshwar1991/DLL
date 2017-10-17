@@ -1,0 +1,6 @@
+LIBRARY	"Dll_using_def" 
+
+EXPORTS
+  Sub
+  Add
+
