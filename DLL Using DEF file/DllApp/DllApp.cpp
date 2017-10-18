@@ -1,3 +1,11 @@
+/** @file DllApp.cpp
+*   @brief
+*
+*   This is the application project using functionality of DLLDef.
+*
+*   @author Sonu Gupta
+*/
+
 #include <windows.h>
 #include <iostream>
 #include <conio.h>
